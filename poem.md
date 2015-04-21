@@ -7,5 +7,5 @@
 <p>Nor any voice of mourning save the choirs,-</p>
 <p>The shrill, demented choirs of wailing shells;</p>
 <p>And bugles calling for them from sad shires.</p>
-<p>-- Wilfred Owen's 'Anthem for Doomed Youth'</p>
+<p>-- <i>Wilfred Owen's</i> <b>'Anthem for Doomed Youth'</b></p>
    <p>http://writersinspire.org/content/art-mourning-first-world-war-poetry</p>
