@@ -4,7 +4,7 @@ What passing-bells for these who die as cattle?
 
 --Only the _monstrous_ anger of the guns.
 
-Only the stuttering rifles' rapid rattle
+Only the <b>stuttering rifles'</b> rapid rattle
 
 Can patter out their hasty orisons.
 
